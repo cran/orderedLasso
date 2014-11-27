@@ -1,0 +1,14 @@
+de3ee85f6ab652b4079c55c220f05a3b *DESCRIPTION
+bf07bd88bf8fc382bff2bc69050ea461 *NAMESPACE
+eb86195b856d1088ff09868353480058 *R/funcs.R
+06bf2271477e5891142f97fa66e5d215 *man/orderedLasso.Rd
+8255a6b6cdef3559e303bd911c4adff6 *man/orderedLasso.cv.Rd
+181d1968600dad12aa4f0387ce15ca21 *man/orderedLasso.path.Rd
+e19bbe657202bfb43b319bab5e75d4f6 *man/predict.orderedLasso.Rd
+d8c764138fcd0f1ff60fced1c5a54c86 *man/predict.orderedLasso.path.Rd
+e5388722ef09e511041945290834bfe5 *man/predict.timeLagLasso.Rd
+802dfb5440585c4e6d58e1ad5b365214 *man/predict.timeLagLasso.path.Rd
+dfae95ad51589f0a1475b5486c29d019 *man/timeLagLasso.Rd
+b9ae461a1987d7bcd17d4c006a4d1cb7 *man/timeLagLasso.cv.Rd
+cd92e135e21c49c7b31e29a4f481a92a *man/timeLagLasso.path.Rd
+180ef580f39d4bf8fef735bfabae02bf *man/time_lag_matrix.Rd
