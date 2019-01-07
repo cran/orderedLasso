@@ -1,6 +1,6 @@
 Package: orderedLasso
-Title: Ordered Lasso and Time-lag Sparse Regression
-Version: 1.7
+Title: Ordered Lasso and Time-Lag Sparse Regression
+Version: 1.7.1
 Author: Jerome Friedman, Xiaotong Suo and Robert Tibshirani
 Description: Ordered lasso and time-lag sparse regression. Ordered Lasso fits a
     linear model and imposes an order constraint on the coefficients. It writes
@@ -13,7 +13,7 @@ Maintainer: Xiaotong Suo <xiaotong@stanford.edu>
 Depends: R (>= 3.0.0), Matrix
 Imports: Iso,quadprog,ggplot2,reshape2
 License: GPL-2
-Packaged: 2014-11-27 07:18:25 UTC; xiaotong
+Packaged: 2019-01-07 12:05:41 UTC; hornik
 NeedsCompilation: yes
 Repository: CRAN
-Date/Publication: 2014-11-27 08:32:37
+Date/Publication: 2019-01-07 12:21:23 UTC

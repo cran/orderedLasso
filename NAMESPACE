@@ -25,3 +25,12 @@ export(timeLagLasso)
 export(timeLagLasso.cv)
 export(timeLagLasso.path)
 export(time_lag_matrix)
+
+S3method(predict, orderedLasso)
+S3method(predict, orderedLasso.path)
+S3method(predict, timeLagLasso)
+S3method(predict, timeLagLasso.path)
+
+importFrom("graphics", "abline", "axis", "mtext", "par", "plot",
+           "points", "segments")
+importFrom("stats", "approx", "sd", "var")
